@@ -17,8 +17,6 @@ function anagrams(stringA, stringB) {
     return newStrA === newStrB;
 }
 
-
-
 module.exports = anagrams;
 
 
